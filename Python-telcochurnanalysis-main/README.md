@@ -1,7 +1,7 @@
-# Telecom Customer Churn Analysis
+# Telecom Customer Churn Prediction
 
 ## Overview
-This project focuses on analyzing telecom customer churn using a dataset containing various customer attributes and churn status. The goal is to identify key factors influencing churn and provide insights to help telecom companies improve customer retention strategies.
+This is a learning project that focuses on analyzing telecom customer churn using a dataset containing various customer attributes and churn status. The goal is to identify key factors influencing churn and provide insights to help telecom companies improve customer retention strategies.
 
 ## Dataset
 The dataset consists of the following attributes:
